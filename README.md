@@ -1,6 +1,6 @@
 🌍Map Population\
 (30DayMapChallenge)\
-This repository, I show you how to map the population change in Iran from 1990 to 2020 using ggplot2 in R.
+This repository, I show you how to create a population change map in Iran from 1990 to 2020 using ggplot2 in R.
 
 
 🧰 Tools & Libraries
